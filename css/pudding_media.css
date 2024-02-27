@@ -70,11 +70,21 @@
     width: 150px;
     margin-right: -50px;
   }
+  .sec2 .sec2_cont .icon_allbox span{
+    font-size: 1.5vw;
+  }
+  .sec2 .sec2_cont .icon_allbox p{
+    font-size: 1.2vw;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text p span{
+    font-size: 1.2vw;
+  }
   .sec4 .sec4_allbox .box{
     width: 150%;
     height: 100%;
     margin: 0 45px;
   }
+
 }
 
 @media screen and (max-width:1200px){
