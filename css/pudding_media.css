@@ -456,6 +456,7 @@ header .header_inner{
   }
   .sec5 .onover .imgbox .left figure img{
     width: 90%;
+    margin: auto;
   }
   .sec6 .container .row .textbox p{
     font-size: 15px;
@@ -542,11 +543,22 @@ header .header_inner{
   .sec4 .sec4_allbox .box img{
     width: 100%;
   }
+  .sec5{
+    height: 250px;
+  }
+  .sec5 .onover .imgbox .imgs{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+  }
   .sec6 .container .row .textbox h4{
     font-size: 18px;
   }
   .sec6 .container .row .textbox strong{
     font-size: 18px;
+  }
+  .sec6 .container .row .textbox{
+    margin-top: 30px;
   }
   .Fsearch_bar .lr .left img{
     width: 25%;
