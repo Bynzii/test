@@ -65,7 +65,7 @@
   header .header_inner .util ul{
     display: none;
   }
-  .menuB{
+   .menuB{
     display: block;
     width: 150px;
     margin-right: -50px;
@@ -76,8 +76,8 @@
     border: none;
     background-color: transparent;
     position: absolute;
-    top: 30px;
-    left: 29%;
+    top: 25px;
+    right: 25px;
   }
   .m_menu{
     width: 100%;
@@ -99,7 +99,7 @@
   .m_menu ul .sear{
     background-color: #F4E3B6;
     margin-top: 50px;
-    width: 20%;
+    width: 70%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -118,7 +118,7 @@
     background-color: transparent;
     color: #381806;
     border: none;
-  }
+  } */
   .sec2 .sec2_cont .icon_allbox span{
     font-size: 1.5vw;
   }
@@ -150,22 +150,6 @@
   }
   header .header_inner .util ul li{
     font-size: 1.2vw;
-  }
-  .closeB{
-    border: none;
-    background-color: transparent;
-    position: absolute;
-    top: 3%;
-    left: 28%;
-  }
-  .m_menu ul .sear{
-    background-color: #F4E3B6;
-    margin-top: 50px;
-    width: 20%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50px;
   }
   main .main_inner{
     padding: 5vw 0;
@@ -330,53 +314,6 @@
   .menuB{
     top: 45px;
   }
-  .closeB{
-    border: none;
-    background-color: transparent;
-    position: absolute;
-    top: 3%;
-    left: 28%;
-  }
-  .m_menu{
-    width: 100%;
-    height: 100%;
-    background-color: #FFCCCE;
-    /* padding: 0 50px; */
-  }
-  .m_menu ul{
-    height: 100%;
-    margin: 150px auto;
-    display: flex;
-    flex-direction: column;
-  }
-  .m_menu ul li{
-   margin-bottom: 50px;
-   text-align: left;
-   font-size: 3vw;
-  }
-  .m_menu ul .sear{
-    background-color: #F4E3B6;
-    margin-top: 50px;
-    width: 20%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50px;
-  }
-  .m_menu ul li button{
-    background-color: transparent;
-    color: #381806;
-    border: none;
-  }
-  .m_menu ul .sear img{
-    width: 20px;
-    height: 20px;
-  }
-  .m_menu ul .right{
-    background-color: transparent;
-    color: #381806;
-    border: none;
-  }
 }
 
 @media screen and (max-width:767px) {
@@ -385,7 +322,7 @@
   }
   header .header_inner{
     height: 60px;
-    padding: 0 20px;
+    /* padding: 0 20px; */
   }
   header .header_inner h1 img{
     width: 70px;
