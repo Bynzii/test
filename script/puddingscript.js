@@ -2,6 +2,14 @@ $(function(){
   
   
   // 쿠키버튼 클릭시 모바일메뉴 나타나고, 다시 사라지게
+
+    $(".menuB").click(function(){
+    $(".m_menu").css({display:'block'})
+  })
+  $(".closeB").click(function(){
+    $(".m_menu").css({display:'none'})
+  })
+  
   $(".menuB").click(function(){
     $(".m_menu").animate({ right:'0' })
   });
