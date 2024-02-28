@@ -90,10 +90,9 @@ header .header_inner .util ul li:hover{
   border: none;
   background-color: transparent;
   display: none;
-  
-  /* position: absolute;
+  position: absolute;
   right: 0px;
-  top: 23px; */
+  top: 23px;
 }
 .menuB img{
   width: 30%;
@@ -316,6 +315,9 @@ main .main_inner .ML_title .M_viewmore button{
   font-size: 3vw;
   color: #381806;
   text-align: center;
+}
+.sec2 .sec2_cont .row .greenice{
+  border-radius: 30px;
 }
 .sec2 .sec2_cont .sec2_bluebox{
   background-color: #0465A8;
@@ -557,7 +559,7 @@ main .main_inner .ML_title .M_viewmore button{
   .sec4 .sec4_allbox .box{
     width: 100%;
     height: 100%;
-    
+    /* margin: 0 30px; */
   }
   .sec4 .sec4_allbox .box a{
     width: 100%;
