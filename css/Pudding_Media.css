@@ -1,0 +1,632 @@
+@media screen and (max-width:1600px){
+  header .header_inner nav ul li{
+    font-size: 1.2rem;
+  }
+  header .header_inner .util ul li{
+    font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width:1280px){
+  header .header_inner h1{
+    justify-self: center;
+  }
+  header .header_inner nav ul{
+    display: none;
+  }
+  header .header_inner .util ul{
+    display: none;
+  }
+  main .main_inner .ML_title p{
+    font-size: 8rem;
+    line-height: 6rem;
+  }
+  main .main_inner .ML_title span{
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.6rem;
+    margin-bottom: 5rem;
+  }
+  main .main_inner .MR_banner{
+    width: 70%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+  }
+  .sec3 .container .butter{
+    left: 300px;
+    top: -130px;
+  }
+  .sec3 .container .crepe{
+    left: 200px;
+    top: 200px;
+  }
+  .sec3 .container .pink_drink{
+    left: 150px;
+    bottom: 100px;
+  }
+  .sec3 .container .melon{
+    right: 150px;
+    top: 10px;
+  }
+  .sec3 .container .cherry{
+    right: 38%;
+    top: 450px;
+  }
+  .sec3 .container .cake{
+    right: 50px;
+  }
+  .sec3 .container .icecream{
+    right: 100px;
+    bottom: -100px;
+  }
+
+}
+
+@media screen and (max-width:1200px){
+  .sec2 .sec2_cont .sec2_bluebox{
+    border-radius: 20px;
+  }
+  .sec2 .sec2_cont .sec2_bluebox ul li{
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    margin-top: 2rem;
+    color: #fff;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox .icon1, .icon2, .icon3, .icon4{
+    line-height: 2.5rem;
+  }
+  .sec2 .sec2_cont .icon_allbox span{
+    font-weight: 600;
+    font-size: 1.2rem;
+  }
+  .sec2 .sec2_cont .icon_allbox p{
+    font-weight: 600;
+    font-size: 1.2rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .noti{
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text{
+    line-height: 2rem;
+  }
+  .sec5 .onover .imgbox .imgs{
+    width: 100%;
+    position: absolute;
+    padding: 0 3%;
+  }
+  .sec5 .onover .imgbox{
+    height: 300px;
+  }
+  .sec5 .container .row .textbox{
+    padding: 0 10px;
+  }
+}
+
+@media screen and (max-width:1100px){
+.sec1 .sec1_allbox .sec1L_contents .sec1L_con_text p,
+.sec1 .sec1_allbox .sec1R_contents .sec1R_con_text p{
+  font-family: "Shrikhand", serif;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  letter-spacing: 0.3rem;
+}
+.sec5 .onover .left{
+  display: block;
+}
+}
+@media screen and (max-width:1024px){
+  main .main_inner .ML_title .M_viewmore button{
+    padding: 20px;
+    font-size: 1.2rem;
+  }
+  main .main_inner .ML_title span{
+    margin-bottom: 4rem;
+    text-shadow: 1px 1px 3px #fff;
+  }
+  .sec3 .container .butter{
+    left: 250px;
+    top: -80px;
+    width: 150px;
+  }
+  .sec3 .container .crepe{
+    left: 70px;
+    top: 100px;
+    width: 150px;
+  }
+  .sec3 .container .pink_drink{
+    left: 100px;
+    bottom: 50px;
+    width: 180px;
+  }
+  .sec3 .container .melon{
+    right: 150px;
+    top: -80px;
+    width: 150px;
+  }
+  .sec3 .container .cherry{
+    right: 280px;
+    top: 150px;
+    width: 40px;
+  }
+  .sec3 .container .cake{
+    /* right: -50px; */
+    width: 150px;
+
+  }
+  .sec3 .container .icecream{
+    right: 150px;
+    bottom: -20px;
+    width: 150px;
+  }
+}
+
+@media screen and (max-width:800px){
+  .m_menu ul li{
+    margin-bottom: 50px;
+    font-size: 1.5rem;
+   }
+   .m_menu ul .sear{
+    margin-top: 30px;
+  }
+  
+}
+@media screen and (max-width:991px){
+  main .main_inner .ML_title p{
+    font-size: 8rem;
+    line-height: 7rem;
+  }
+  .sec2 .sec2_cont .sec2_bluebox ul li{
+    font-size: 1rem;
+    line-height: 1.2rem;
+    margin-top: 1.3rem;
+    color: #fff;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox .icon1, .icon2, .icon3, .icon4{
+    line-height: 2rem;
+  }
+  .sec2 .sec2_cont .icon_allbox span{
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .sec2 .sec2_cont .icon_allbox p{
+    font-weight: 600;
+    font-size: 12px;
+  }
+  .sec2 .sec2_cont .icon_allbox .noti{
+    font-size: 14px;
+    line-height: 1.2rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text{
+    line-height: 2rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text p{
+    font-size: 0.6rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text p span{
+    font-size: 0.6rem;
+    font-weight: 700;
+  }
+  .sec3 .container p{
+    font-size: 8rem;
+    line-height: 12rem;
+  }
+  .sec5 .onover .imgbox{
+    height: 230px;
+  }
+  .sec5 .container .row .textbox{
+    padding: 0 10px;
+  }
+  .sec5 .container .row .textbox p{
+    line-height: 1.5rem;
+  }
+}
+
+@media screen and (max-height:390px){
+  .m_menu ul li{
+    margin-bottom: 20px;
+    font-size: 1rem;
+   }
+   .m_menu ul .sear{
+    margin-top: 30px;
+  }
+}
+@media screen and (max-width:767px){
+  /* h1 logo 왼쪽 배치하고 싶음 */
+  main{
+    padding: 6rem 0;
+  }
+  main .main_inner .ML_title p{
+    font-size: 6rem;
+    line-height: 5rem;
+    text-shadow: 1px 1px 3px #fff;
+  }
+  main .main_inner .ML_title .M_viewmore button{
+    padding: 15px;
+    font-size: 1rem;
+  }
+  main .main_inner .MR_banner{
+    width: 75%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+  }
+  .sec1 .sec1_title{
+    margin: 6rem auto;
+  }
+  .sec1 .sec1_title h2{
+    font-size: 2rem;
+  }
+  .sec1 .sec1_allbox{
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 10rem;
+  }
+  .sec1 .sec1_allbox .sec1L_contents{
+    width: 50%;
+    margin-bottom: 3rem;
+  }
+  .sec1 .sec1_allbox .sec1_vid{
+    width: 100%;
+  }
+  .sec1 .sec1_allbox .sec1_vid video{
+    width: 100%;
+    border-radius: 30px;
+  }
+  .sec1 .sec1_allbox .sec1R_contents{
+    width: 50%;
+    margin-top: 3rem;
+  }
+  .sec1 .sec1_allbox .sec1L_contents .sec1L_con_text p,
+  .sec1 .sec1_allbox .sec1R_contents .sec1R_con_text p{
+  font-size: 1.2rem;
+  line-height: 2rem;
+  letter-spacing: 0.2rem;
+  }
+  .sec2 .sec2_title{
+    margin-bottom: 6rem;
+  }
+  .sec2 .sec2_title h2{
+    font-size: 2rem;
+
+  }
+  .sec2 .sec2_cont .sec2_bluebox{
+    border-radius: 15px;
+  }
+  .sec2 .sec2_cont .sec2_bluebox ul li{
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 20px;
+    color: #fff;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox{
+    margin-bottom: 10px;
+  }
+  .sec2 .sec2_cont .icon_allbox p{
+    font-size: 14px;
+  }
+  .sec2 .sec2_cont .icon_allbox .noti{
+    font-size: 1.3rem;
+    line-height: 2rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text{
+    line-height: 2rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text p{
+    font-size: 1rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text p span{
+    font-size: 1.1rem;
+    font-weight: 700;
+  }
+  .sec3_textbox{
+    line-height: 2rem;
+    font-size: 1rem;
+  }
+  .sec3 .container .butter{
+    left: 250px;
+    top: -80px;
+    width: 150px;
+  }
+  .sec3 .container .crepe{
+    left: 70px;
+    top: 100px;
+    width: 150px;
+  }
+  .sec3 .container .pink_drink{
+    left: 100px;
+    bottom: 50px;
+    width: 180px;
+  }
+  .sec3 .container .melon{
+    right: 150px;
+    top: -80px;
+    width: 150px;
+  }
+  .sec3 .container .cherry{
+    right: 280px;
+    top: 150px;
+    width: 40px;
+  }
+  .sec3 .container .cake{
+    /* right: -50px; */
+    width: 150px;
+
+  }
+  .sec3 .container .icecream{
+    right: 150px;
+    bottom: -20px;
+    width: 150px;
+  }
+  .sec3 .container p{
+    font-size: 6rem;
+    line-height: 10rem;
+  }
+  .sec4{
+    padding-top: 15rem;
+  }
+  .sec4 .sec4_title h2{
+    font-size: 2rem;
+  }
+  .sec5 .onover .imgbox{
+    height: 350px;
+  }
+  .sec5 .container .row .textbox{
+    padding: 0 10px;
+  }
+  .sec5 .container .row .textbox p{
+    line-height: 1.7rem;
+  }
+  footer .F_search input{
+    width: 80%;
+    height: 4rem;
+  }
+  .Fsearch_bar .lr .left{
+    top: 30%;
+    left: 10%;
+  }
+  .Fsearch_bar .lr .right{
+    top: 30%;
+    right: 10%;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox .icon1, .icon2, .icon3, .icon4{
+    width: 48%;
+    line-height: 2rem;
+    margin-bottom: 10px;
+  }
+  .sec2 .sec2_cont .icon_allbox .noti{
+    line-height: 1.5rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text p{
+    font-size: 0.7rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text p span{
+    font-size: 0.9rem;
+  }
+}
+
+@media screen and (max-width:575px){
+  main .main_inner .ML_title p{
+    font-size: 4.5rem;
+    line-height: 4rem;
+    text-shadow: 1px 1px 3px #fff;
+  }
+  main .main_inner .ML_title .blue{
+    margin-bottom: 3rem;
+  }
+  main .main_inner .ML_title span{
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 2rem;
+    margin-bottom: 5rem;
+  }
+  main .main_inner .ML_title span{
+    font-size: 1rem;
+    line-height: 1.2rem;
+    margin-bottom: 3rem;
+  }
+  .sec1 .sec1_allbox .sec1L_contents .sec1L_con_text p,
+  .sec1 .sec1_allbox .sec1R_contents .sec1R_con_text p{
+  font-size: 1rem;
+  line-height: 1.5rem;
+  letter-spacing: 0.1rem;
+  }
+  .sec2 .sec2_cont{
+    width: 90%;
+    height: 100%;
+    margin: auto;
+   }
+  .sec2 .sec2_cont .sec2_bluebox{
+    border-radius: 15px;
+    padding: 50px 0;
+  }
+  .sec2 .sec2_cont .sec2_bluebox ul li{
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 30px;
+    color: #fff;
+  }
+  .sec5 .onover .imgbox{
+    height: 300px;
+  }
+  .sec5 .onover .imgbox .imgs{
+    width: 80%;
+    transform: translate(10%, 30%);
+  }
+  .sec5 .container .row .textbox p{
+    line-height: 1.5rem;
+  }
+  .sec5 .container .row .textbox{
+    width: 75%;
+    height: 100%;
+    margin: auto;
+    padding: 0;
+  }
+
+}
+
+@media screen and (max-width:500px){
+
+  main .main_inner .MR_banner{
+    width: 70%;
+    height: 70%;
+  }
+  main .main_inner .ML_title p{
+    font-size: 4rem;
+    line-height: 3.5rem;
+    text-shadow: 1px 1px 3px #fff;
+  }
+  main .main_inner .ML_title .blue{
+    margin-bottom: 2rem;
+  }
+  main .main_inner .ML_title span{
+    font-size: 0.7rem;
+    line-height: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  main .main_inner .ML_title .M_viewmore button{
+    padding: 10px;
+    font-size: 0.8rem;
+  }
+  .sec1 .sec1_title{
+    margin: 5rem auto;
+  }
+  .sec1 .sec1_title h2{
+    font-size: 1.5rem;
+  }
+  .sec2 .sec2_title h2{
+    font-size: 1.5rem;
+  }
+  .sec3 .sec3_title h2{
+    font-size: 1.5rem;
+  }
+  .sec3 .container p{
+    font-size: 4rem;
+    line-height: 8rem;
+  }
+  .sec3 .container .butter{
+    left: 80px;
+    top: -40px;
+    width: 120px;
+  }
+  .sec3 .container .crepe{
+    left: 100px;
+    top: 200px;
+    width: 120px;
+  }
+  .sec3 .container .pink_drink{
+    left: 50px;
+    bottom: 120px;
+    width: 150px;
+  }
+  .sec3 .container .melon{
+    right: 30px;
+    top: -30px;
+    width: 120px;
+  }
+  .sec3 .container .cherry{
+    right: 150px;
+    top: 150px;
+    width: 30px;
+  }
+  .sec3 .container .cake{
+    /* right: -50px; */
+    width: 120px;
+
+  }
+  .sec3 .container .icecream{
+    right: 100px;
+    bottom: -80px;
+    width: 120px;
+  }
+}
+
+@media screen and (max-width:450px){
+  .m_menu ul li{
+    margin-bottom: 50px;
+    font-size: 1.2rem;
+   }
+   .m_menu ul .sear{
+    margin-top: 30px;
+  }
+  
+}
+@media screen and (max-height:450px){
+  .m_menu ul li{
+    margin-bottom: 30px;
+    font-size: 1.3rem;
+   }
+   .m_menu ul .sear{
+    margin-top: 30px;
+  }
+  
+}
+
+@media screen and (max-height:600px){
+  .m_menu ul li{
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+   }
+   .m_menu ul .sear{
+    margin-top: 20px;
+  }
+  
+}
+@media screen and (max-width:400px){
+  header .header_inner{
+    padding: 0 20px;
+  }
+  .menuB{
+    width: 100%;
+  }
+  .menuB img{
+    width: 130px;
+  }
+  .m_menu ul li{
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 1.1rem;
+   }
+  main .main_inner .MR_banner{
+    width: 70%;
+    height: 100%;
+  }
+  main .main_inner .ML_title p{
+    font-size: 3rem;
+    line-height: 3rem;
+    text-shadow: 1px 1px 3px #fff;
+  }
+  main .main_inner .ML_title .blue{
+    margin-bottom: 1.5rem;
+  }
+  main .main_inner .ML_title span{
+    font-size: 0.5rem;
+    line-height: 0.7rem;
+    margin-bottom: 1.5rem;
+  }
+  main .main_inner .ML_title .M_viewmore button{
+    width: 65%;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+  }
+  .sec1 .sec1_title{
+    margin: 5rem auto;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox .icon1, .icon2, .icon3, .icon4{
+    width: 48%;
+    line-height: 2rem;
+    margin-bottom: 10px;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text p{
+    font-size: 0.7rem;
+  }
+  .sec2 .sec2_cont .icon_allbox .iconbox2 .icon5 .noti_text p span{
+    font-size: 0.9rem;
+  }
+  .sec3_textbox{
+    line-height: 2rem;
+    font-size: 1rem;
+  }
+}
